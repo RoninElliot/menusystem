@@ -1,0 +1,101 @@
+<menusystemitem>
+    <mainmenu>
+        <item1>
+            <title>-Play-</title>
+            <function></function>
+        </item1>
+
+        <item2>
+            <title>-Load-</title>
+            <function></function>
+        </item2>
+        
+        <item3>
+            <title>-Options-</title>
+            <function></function>
+        </item3>
+        
+        <item4>
+            <title>-Quit-</title>
+            <function></function>
+        </item4>
+        
+    </mainmenu>
+
+    <playmenu>
+
+        <item1>
+            <title>-Continue-</title>
+        </item1>
+
+        <item2>
+            <title>-New Game-</title>
+        </item2>
+
+        <item3>
+            <title>-MultiPlay-</title>
+        </item3>
+
+        <item4>
+            <title>-Stats-</title>
+        </item4>
+
+    </playmenu>
+
+    <optionmenu>
+
+        <item1>
+            <title>-GamePlay-</title>
+        </item1>
+
+        <item2>
+            <title>-Sound-</title>
+        </item2>
+
+        <item3>
+            <title>-Graphic-</title>
+        </item3>
+
+    </optionmenu>
+
+    <loadmenu>
+
+        <item1>
+            <title>-LastSave-</title>
+        </item1>
+
+        <item2>
+            <title>-Save's-</title>
+        </item2>
+
+
+    </loadmenu>
+
+    <quitmenu>
+
+        <item1>
+            <title>-yes-</title>
+        </item1>
+
+        <item2>
+            <title>-no-</title>
+        </item2>
+
+
+    </quitmenu>
+
+    <empty>
+
+        <emptyt>
+            <title>-empty-</title>
+        </emptyt>
+
+        <emptys>
+            <title>-</title>
+        </emptys>
+
+
+    </empty>
+
+
+</menusystemitem>
