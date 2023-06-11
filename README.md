@@ -4,17 +4,9 @@ CLI Selector Menu With key
 
 ## Descrption
 
-The Program show a menu in Your Console, and You instead of enter a number of menu: 
+The Program show a menu in Your Console, and You instead of enter a number
 
-1-play
-
-2-quit
-
-enter: 2 (and enter)
-
-dont be like that.
-
-You Can Switch With Keyboard
+You Can Switch With Keyboard!
 
 HOW? 
 
